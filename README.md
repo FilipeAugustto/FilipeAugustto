@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FilipeAugustto
-- 👀 I’m interested in enter the programming world
+- 👀 I’m interested in learn new things and improve with projects
 - 🌱 I’m currently improving in Python and learning arduino 
 - 💞️ I’m looking to collaborate on Python projects and embedded systems
 - 📫 How to reach me filipeaugustto22@gmail.com
